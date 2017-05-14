@@ -21,3 +21,5 @@ rspec.res
 .idea
 
 .DS_Store
+
+/vendor/
